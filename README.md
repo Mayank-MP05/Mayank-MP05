@@ -9,7 +9,7 @@
 
 #### Github Stats :
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank-MP05&show_icons=true&hide_border=true" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank-MP05&show_icons=true&hide_border=true" />
 <br />
 
 #### Tech I have worked with :
@@ -39,8 +39,6 @@
 [<img align="left" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 
 <br />
 --
