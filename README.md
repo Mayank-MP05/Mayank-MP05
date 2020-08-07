@@ -41,7 +41,7 @@
 [<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
---
+---
 [emailto]: mailto:mayank5pande@gmail.com
 [twitter]: https://twitter.com/Mayank_MP5
 [linkedin]: https://www.linkedin.com/in/mayank-pachpande-117823169/
