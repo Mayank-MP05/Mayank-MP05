@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend and DBMS
 - 👯 I’m looking to collaborate on NPM or some type of JS sort
 - 💬 Ask me about Collab on JS end to end project
-- 📫 How to reach me: [mayank5pande@gmail.com][emailto]
+- 📫 How to reach me: [mayank5pande@gmail.com](mailto:mayank5pande@gmail.com)
 - ⚡ Fun fact: (Just because README template is asking to do) MP5 in my username stands for "Pach"pande in Marathi
 
 #### Github Stats :
