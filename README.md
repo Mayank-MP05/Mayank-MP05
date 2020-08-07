@@ -35,15 +35,14 @@
 
 #### Connect with me on :
 
-[<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/medium.svg" />][medium]
-[<img align="left" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/medium.svg" /> &nbsp;&nbsp; : https://medium.com/@mayank5pande
+
+<img align="left" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; : https://twitter.com/Mayank_MP5
+
+<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; : https://www.linkedin.com/in/mayank-pachpande-117823169/
+
+<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;&nbsp; : https://www.instagram.com/mayank_mp5/
+
+<img align="left" alt="Mayank-MP05 | Email" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp;&nbsp; : [mayank5pande@gmail.com](mailto:mayank5pande@gmail.com)
 
 <br />
----
-[emailto]: mailto:mayank5pande@gmail.com
-[twitter]: https://twitter.com/Mayank_MP5
-[linkedin]: https://www.linkedin.com/in/mayank-pachpande-117823169/
-[instagram]: https://www.instagram.com/mayank_mp5/
-[medium]: https://medium.com/@mayank5pande
