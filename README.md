@@ -39,7 +39,7 @@
 
 <img align="left" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;&nbsp; : https://twitter.com/Mayank_MP5
 
-<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; : https://www.linkedin.com/in/mayank-pachpande-117823169/
+<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;&nbsp; : https://www.linkedin.com/in/mayank-mp5/
 
 <img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp;&nbsp; : https://www.instagram.com/mayank_mp5/
 
