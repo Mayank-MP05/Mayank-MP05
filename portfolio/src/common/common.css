@@ -1,0 +1,26 @@
+/* Common CSS */
+
+.navbar-logo {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}
+.nav-list-container {
+  display: flex;
+}
+@media (min-width: 600px) {
+  /* Desktop Mode */
+  .nav-link {
+    margin: 0px;
+  }
+  .nav-list-container {
+    justify-content: flex-end;
+  }
+}
+
+@media (max-width: 600px) {
+  /* Mobile View */
+  .nav-link {
+    margin: 0 10px;
+  }
+}

@@ -1,13 +1,14 @@
 import react from "react";
 import { BrowserRouter as Router } from "react-router-dom";
+
+import NavbarX from "./common/Navbar";
 import Routes from "./Routes";
 
 function App() {
   return (
     <Router>
       <div className='App'>
-        This is the Simple App
-        <hr />
+        <NavbarX />
         <Routes />
       </div>
     </Router>
