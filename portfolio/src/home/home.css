@@ -9,6 +9,22 @@
   text-align: center;
   margin: 5px;
 }
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.social-links img {
+  margin: 5px 10px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.social-links img:hover {
+  transform: scale(1.1);
+}
 @media (min-width: 600px) {
   /* Desktop Mode */
   .mayank-img {

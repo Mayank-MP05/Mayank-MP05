@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import MayankImg from "./linked-in-dp-gray-bg.png";
 function Introcard() {
   return (
-    <div className='w-100 d-flex'>
+    <div className='w-100 d-flex shadow-lg p-3 mb-5 bg-white rounded'>
       <Card style={{ width: "40%" }} className='left-card no-border m-auto'>
         <Card.Img variant='top' src={MayankImg} className='mayank-img' />
         <Card.Body>
