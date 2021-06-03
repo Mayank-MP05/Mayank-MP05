@@ -1,0 +1,9 @@
+/* Common CSS */
+
+@media (min-width: 600px) {
+  /* Desktop Mode */
+}
+
+@media (max-width: 600px) {
+  /* Mobile View */
+}

@@ -1,7 +1,14 @@
 import React from "react";
+import "./projects.css";
 
 function Projects() {
-  return <div>This is Projects Component</div>;
+  return (
+    <>
+      <div className='bg-img'>
+        <h3>Projects</h3>
+      </div>
+    </>
+  );
 }
 
 export default Projects;
