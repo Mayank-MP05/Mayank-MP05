@@ -9,6 +9,10 @@
   flex-wrap: wrap;
   flex-direction: row;
 }
+
+.readme img {
+  max-width: 100%;
+}
 @media (min-width: 600px) {
   /* Desktop Mode */
   .project-logo {
