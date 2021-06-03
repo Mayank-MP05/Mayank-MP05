@@ -14,7 +14,7 @@ import twitter from "./logos/twitter.png";
 
 function Sociallinks() {
   return (
-    <div class='shadow-lg p-3 mb-5 bg-white rounded social-links'>
+    <div className='shadow-sm p-3 mb-5 bg-white rounded social-links'>
       <a href='https://www.linkedin.com/in/mayank-mp5/' target='_blank'>
         <img src={linkedin} />
       </a>

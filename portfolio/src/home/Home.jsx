@@ -9,7 +9,6 @@ function Home() {
   return (
     <>
       <Introcard />
-      <Sociallinks />
       <Achievements />
     </>
   );

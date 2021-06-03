@@ -14,6 +14,7 @@
   display: flex;
   justify-content: center;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 .social-links img {
   margin: 5px 10px;
