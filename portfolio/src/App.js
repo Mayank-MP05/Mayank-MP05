@@ -10,7 +10,7 @@ function App() {
     <>
       <Router>
         <NavbarX />
-        <div className='container m-3 p-3'>
+        <div className='container m-auto p-3'>
           {" "}
           <Routes />
         </div>
