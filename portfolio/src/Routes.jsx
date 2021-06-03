@@ -7,12 +7,22 @@ import {
   Link,
 } from "react-router-dom";
 
+import Home from "./home/Home";
+import Projects from "./projects/Projects";
+import Explore from "./explore/Explore";
+
 const Routes = () => {
   return (
     <Switch>
-      <Route path='/home'>Home Component</Route>{" "}
-      <Route path='/projects'>Projets Component</Route>{" "}
-      <Route path='/explore'>Explore Component</Route>
+      <Route path='/home'>
+        <Home />
+      </Route>{" "}
+      <Route path='/projects'>
+        <Projects />
+      </Route>{" "}
+      <Route path='/explore'>
+        <Explore />
+      </Route>
       <Route exact path='/'>
         <Redirect to='/home' />
       </Route>

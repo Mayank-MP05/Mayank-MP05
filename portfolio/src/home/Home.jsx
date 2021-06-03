@@ -1,7 +1,18 @@
 import React from "react";
+import "./home.css";
+
+import Introcard from "./Introcard";
+import Achievements from "./Achievements";
+import Sociallinks from "./Sociallinks";
 
 function Home() {
-  return <div>This is Home Component</div>;
+  return (
+    <>
+      <Introcard />
+      <Sociallinks />
+      <Achievements />
+    </>
+  );
 }
 
-export default Home
+export default Home;
