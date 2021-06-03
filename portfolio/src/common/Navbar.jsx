@@ -31,12 +31,12 @@ function NavbarX() {
               <Link to='/home' className='nav-link'>
                 Home
               </Link>
-            </Nav.Link>{" "}
+            </Nav.Link>
             <Nav.Link>
               <Link to='/projects' className='nav-link'>
                 Projects
               </Link>
-            </Nav.Link>{" "}
+            </Nav.Link>
             <Nav.Link>
               <Link to='/explore' className='nav-link'>
                 Explore

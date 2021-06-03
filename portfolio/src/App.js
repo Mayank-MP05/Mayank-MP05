@@ -2,16 +2,21 @@ import react from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 
 import NavbarX from "./common/Navbar";
+import FooterX from "./common/Footer";
 import Routes from "./Routes";
 
 function App() {
   return (
-    <Router>
-      <div className='App'>
+    <>
+      <Router>
         <NavbarX />
-        <Routes />
-      </div>
-    </Router>
+        <div className='container m-3 p-3'>
+          {" "}
+          <Routes />
+        </div>
+        <FooterX />
+      </Router>
+    </>
   );
 }
 
