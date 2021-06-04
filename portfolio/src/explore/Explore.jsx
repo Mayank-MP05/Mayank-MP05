@@ -7,12 +7,14 @@ import FaceDetction from "./exploreData/face-detection-and-recognition.png";
 import SpaceX from "./exploreData/spaceX.png";
 import Nemo from "./exploreData/Nemo.png";
 import ExamBeep from "./exploreData/exam-beep.png";
+import Memes from "./exploreData/memes.png";
 
 // Importing Readme
 import MDFaceDetection from "./exploreData/face-detection-and-recognition.md";
 import MDSpaceX from "./exploreData/SpaceX.md";
 import MDNemo from "./exploreData/Nemo-goa-guide.md";
 import MDExamBeep from "./exploreData/exam-beep.md";
+import MDMemes from "./exploreData/memes.md";
 
 const projectLinks = (idx) => {
   switch (idx) {
@@ -65,7 +67,7 @@ const projectLinks = (idx) => {
 function Explore() {
   const [ActiveProject, setActiveProject] = useState(0);
   const [Mkdown, setMkdown] = useState("Loading....");
-  const MkdownArr = [MDFaceDetection, MDSpaceX, MDNemo, MDExamBeep];
+  const MkdownArr = [MDFaceDetection, MDSpaceX, MDNemo, MDExamBeep, MDMemes];
 
   useEffect(() => {
     let idx = ActiveProject;
@@ -102,6 +104,11 @@ function Explore() {
           src={ExamBeep}
           className='project-logo'
           onClick={() => setActiveProject(3)}
+        />
+        <img
+          src={Memes}
+          className='project-logo'
+          onClick={() => setActiveProject(4)}
         />
       </div>
       <div className='m-2'>{projectLinks(ActiveProject)}</div>
