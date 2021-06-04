@@ -21,7 +21,7 @@ const projectLinks = (idx) => {
   switch (idx) {
     case 0:
       return (
-        <p className='card shadow-md p-2'>
+        <p className='card shadow-lg bg-white p-2'>
           Frontend Github Repo :{" "}
           <a href='https://github.com/AIMNet-ai/Hulk-Compressor-Frontend'>
             https://github.com/AIMNet-ai/Hulk-Compressor-Frontend
@@ -34,7 +34,7 @@ const projectLinks = (idx) => {
       );
     case 1:
       return (
-        <p className='card shadow-md p-2'>
+        <p className='card shadow-lg bg-white p-2'>
           Github Repo :{" "}
           <a href='https://github.com/Mayank-MP05/molequilizer'>
             https://github.com/Mayank-MP05/molequilizer
@@ -43,7 +43,7 @@ const projectLinks = (idx) => {
       );
     case 2:
       return (
-        <p className='card shadow-md p-2'>
+        <p className='card shadow-lg bg-white p-2'>
           Frontend Github Repo :{" "}
           <a href='https://github.com/Mayank-MP05/Vasooli-Money-Manager-and-Accounting-Solution-React-Firebase'>
             https://github.com/Mayank-MP05/Vasooli-Money-Manager-and-Accounting-Solution-React-Firebase
@@ -56,7 +56,7 @@ const projectLinks = (idx) => {
       );
     case 3:
       return (
-        <p className='card shadow-md p-2'>
+        <p className='card shadow-lg bg-white p-2'>
           Github Repo :{" "}
           <a href='https://github.com/Mayank-MP05/Marathi-Letter-Recognition-ConvNet'>
             https://github.com/Mayank-MP05/Marathi-Letter-Recognition-ConvNet
@@ -65,7 +65,7 @@ const projectLinks = (idx) => {
       );
     case 4:
       return (
-        <p className='card shadow-md p-2'>
+        <p className='card shadow-lg bg-white p-2'>
           Github Repo :{" "}
           <a href='https://github.com/Mayank-MP05/Car-Quality-Full-Stack-ML-Project'>
             https://github.com/Mayank-MP05/Car-Quality-Full-Stack-ML-Project
@@ -139,7 +139,7 @@ function Projects() {
           onClick={() => setActiveProject(4)}
         />
       </div>
-      {projectLinks(ActiveProject)}
+      <div className='m-2'>{projectLinks(ActiveProject)}</div>
       <hr />
       <div className='container readme'>
         {" "}
