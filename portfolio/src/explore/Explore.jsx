@@ -82,7 +82,11 @@ function Explore() {
   return (
     <>
       <div className='bg-img'>
-        <h3>Projects</h3>
+        <h3>Explore</h3>
+        <p>
+          These are the things I tried sometimes for learning sometimes for
+          fun😁
+        </p>
       </div>
       <div className='project-navigation'>
         <img
