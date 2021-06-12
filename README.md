@@ -51,3 +51,5 @@
 
 [![Mayank_MP5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank-MP05&show_icons=true&theme=radical)](https://github.com/Mayank-MP05)
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://mayank-mp05.github.io/)
