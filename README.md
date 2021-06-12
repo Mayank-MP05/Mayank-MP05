@@ -1,3 +1,5 @@
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Mayank_MP5) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mayank-mp5/)
 ![](https://komarev.com/ghpvc/?username=Mayank-MP05&color=green)
 ### Hey there 👋 My name is [Mayank](https://mayank-mp05.github.io/)
 **Welcome Visitor No.**  ![VisitorCount](https://profile-counter.glitch.me/{Mayank-MP05}/count.svg) **Started - June '21**
