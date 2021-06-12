@@ -35,18 +35,19 @@
 
 #### Connect with me on :
 
-<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/medium.svg" /> &nbsp;:https://medium.com/@mayank5pande
+<img align="center" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;:https://www.linkedin.com/in/mayank-mp5/
 
-<img align="left" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;:https://twitter.com/Mayank_MP5
+<img align="center" alt="Mayank-MP05 | Instagram" width="25px" src="https://simpleicons.org/icons/windowsterminal.svg" /> &nbsp;:https://mayank-mp05.github.io/
 
-<img align="left" alt="Mayank-MP05 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;:https://www.linkedin.com/in/mayank-mp5/
+<img align="center" alt="Mayank-MP05 | Instagram" width="25px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/medium.svg" /> &nbsp;:https://medium.com/@mayank5pande
 
-<img align="left" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp; : https://www.instagram.com/mayank_mp5/
+<img align="center" alt="Mayank-MP05 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> &nbsp;:https://twitter.com/Mayank_MP5
 
-<img align="left" alt="Mayank-MP05 | Email" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp; : [mayank5pande@gmail.com](mailto:mayank5pande@gmail.com)
+<img align="center" alt="Mayank-MP05 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />&nbsp; : https://www.instagram.com/mayank_mp5/
+
+<img align="center" alt="Mayank-MP05 | Email" width="25px" src="https://simpleicon.com/wp-content/uploads/new-email.png" />&nbsp; : [mayank5pande@gmail.com](mailto:mayank5pande@gmail.com)
 
 <br />
 
-[![Mayank_MP5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank-MP05&show_icons=true&theme=radical)
-)](https://github.com/Mayank-MP05)
+[![Mayank_MP5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank-MP05&show_icons=true&theme=radical)](https://github.com/Mayank-MP05)
 
