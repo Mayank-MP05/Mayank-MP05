@@ -32,8 +32,12 @@
 <br />
 
 #### Github Most Used with
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-MP05&langs_count=8&layout=compact)](https://github.com/Mayank-MP05/)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-MP05&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-MP05&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-MP05&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-MP05&langs_count=8&layout=compact)](https://github.com/Mayank-MP05/)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-MP05&theme=github_dark)
 
 #### Connect with me on :
 
